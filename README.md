@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Streak  _______________________________________________________________________________________<br><br>
+
+# <img src="assets/img/programming-languages.gif"  width="22" height="22"> &nbsp;Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lendon08&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+#Streak  _______________________________________________________________________________________<br><br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lendon08)](https://git.io/streak-stats)
 
 ##Stats  _______________________________________________________________________________________<br><br>
