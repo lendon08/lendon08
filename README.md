@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 # &nbsp;Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lendon08&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lendon08&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff)
 
-# &nbsp;Streak  _______________________________________________________________________________________<br><br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lendon08)](https://git.io/streak-stats)
+# &nbsp;Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=lendon08)
 
-# &nbsp;Stats  _______________________________________________________________________________________<br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lendon08)](https://github.com/anuraghazra/github-readme-stats)
+# &nbsp;Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lendon08)
